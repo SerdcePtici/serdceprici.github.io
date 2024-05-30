@@ -20,7 +20,7 @@
 <item externalProductId="2000052908" externalId="2000052908" sku="2000052908" name="Кухонная мойка Импорт Юля неучтенка" _price="">
 <stocks>
 <stock externalWarehouseId="OCS" quantity="5"/>
-<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="5"/>
+<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="15"/>
 </stocks>
 </item>
 </items>
