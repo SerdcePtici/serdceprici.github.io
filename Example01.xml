@@ -1,26 +1,20 @@
-<items date="2024-05-29T01:01:01">
-<item externalProductId="2000052905" externalId="2000052905" sku="2000052905" name="Кухонная мойка Импорт Юля 1" _price="">
+<items date="2024-05-30T01:01:01">
+<item externalProductId="310520241" externalId="310520241" sku="310520241" name="Маффин с удачей" _price="100">
 <stocks>
-<stock externalWarehouseId="OCS" quantity="10"/>
-<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="3450"/>
+<stock externalWarehouseId="baker" quantity="10"/>
+<stock externalWarehouseId="tearoom" quantity="2000"/>
 </stocks>
 </item>
-<item externalProductId="2000052906" externalId="2000052906" sku="2000052906" name="Кухонная мойка Импорт Юля 2" _price="">
+<item externalProductId="310520242" externalId="310520242" sku="310520242" name="Пирожок с радостью" _price="50">
 <stocks>
-<stock externalWarehouseId="OCS" quantity="2"/>
-<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="0"/>
+<stock externalWarehouseId="baker" quantity="2"/>
+<stock externalWarehouseId="tearoom" quantity="0"/>
 </stocks>
 </item>
-<item externalProductId="2000052907" externalId="2000052907" sku="2000052907" name="Кухонная мойка Импорт Юля 3" _price="">
+<item externalProductId="310520243" externalId="310520243" sku="310520243" name="Клубника с нежностью" _price="10">
 <stocks>
-<stock externalWarehouseId="OCS" quantity="4"/>
-<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="1"/>
-</stocks>
-</item>
-<item externalProductId="2000052908" externalId="2000052908" sku="2000052908" name="Кухонная мойка Импорт Юля неучтенка" _price="">
-<stocks>
-<stock externalWarehouseId="OCS" quantity="5"/>
-<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="115"/>
+<stock externalWarehouseId="baker" quantity="4"/>
+<stock externalWarehouseId="tearoom" quantity="1"/>
 </stocks>
 </item>
 </items>
