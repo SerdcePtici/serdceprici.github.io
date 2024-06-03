@@ -1,17 +1,17 @@
 <items date="2024-05-30T01:01:01">
-<item externalProductId="030620241" externalId="030620241" sku="030620241" name="Тортик с мечтой" _price="100">
+<item externalProductId="030620241" externalId="030620241" sku="030620241" name="Тортик с мечтой" price="100">
 <stocks>
 <stock externalWarehouseId="baker" quantity="1000"/>
 <stock externalWarehouseId="tearoom" quantity="555"/>
 </stocks>
 </item>
-<item externalProductId="030620242" externalId="030620242" sku="030620242" name="Клубника с нежностью" _price="50">
+<item externalProductId="030620242" externalId="030620242" sku="030620242" name="Клубника с нежностью" price="50">
 <stocks>
 <stock externalWarehouseId="baker" quantity="2"/>
 <stock externalWarehouseId="tearoom" quantity="0"/>
 </stocks>
 </item>
-<item externalProductId="030620243" externalId="030620243" sku="030620243" name="Пирожок с ковидлом" _price="10">
+<item externalProductId="030620243" externalId="030620243" sku="030620243" name="Пирожок с ковидлом" price="10">
 <stocks>
 <stock externalWarehouseId="baker" quantity="4"/>
 <stock externalWarehouseId="tearoom" quantity="1"/>
