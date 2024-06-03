@@ -1,0 +1,8 @@
+<items date="2024-06-03T01:01:01">
+<item externalProductId="030620241325" externalId="030620241325" name="Бублик со страстью" price="100">
+<stocks>
+<stock externalWarehouseId="baker" quantity="10"/>
+<stock externalWarehouseId="tearoom" quantity="11"/>
+</stocks>
+</item>
+</items>
