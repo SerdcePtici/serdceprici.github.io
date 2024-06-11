@@ -1,0 +1,8 @@
+<items date="2024-05-30T01:01:01">
+<item externalProductId="3005202433" externalId="3005202433" sku="300520243" name="Товар с привязкой по артикулу" price="10">
+<stocks>
+<stock externalWarehouseId="OCS" quantity="3"/>
+<stock externalWarehouseId="OCS-06NSB-Crop-test2" quantity="3"/>
+</stocks>
+</item>
+</items>
