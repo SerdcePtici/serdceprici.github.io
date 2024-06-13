@@ -1,0 +1,7 @@
+<items date="2024-06-13T01:01:01">
+<item externalId ="130620241124" sku="1306202411241" name="Товар с привязкой по артикулу 13061124" price="10">
+<stocks>
+<stock externalWarehouseId="sklad11062024" quantity="320"/>
+</stocks>
+</item>
+</items>
