@@ -1,5 +1,5 @@
 <items date="2024-06-17T01:01:01">
-<item externalId="280620241840" sku="280620241840" name="Пицца" price="59">
+<item externalId="280620241840" sku="280620241840" name="Пицца" price="31">
 <stocks>
 <stock externalWarehouseId="edass" quantity="500"/>
 </stocks>
