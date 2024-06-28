@@ -1,5 +1,5 @@
 <items date="2024-06-17T01:01:01">
-<item externalId="190620241132" sku="1906202411321" name="Пастила" price="60">
+<item externalId="190620241132" sku="1906202411321" name="Пастила" price="59">
 <stocks>
 <stock externalWarehouseId="tearoom" quantity="500"/>
 </stocks>
