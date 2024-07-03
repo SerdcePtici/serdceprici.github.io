@@ -1,10 +1,10 @@
 <items date="2024-06-17T01:01:01">
-<item externalId="020720241310" sku="020720241310" name="Товар без себестоимости">
+<item externalProductId="020720241310" externalId="020720241310" sku="020720241310" name="Товар без себестоимости">
 <stocks>
 <stock externalWarehouseId="020720241312" quantity="30"/>
 </stocks>
 </item>
-<item externalId="020720241311" sku="020720241311" name="Товар с себестоимостью" price="200">
+<item externalProductId="020720241311" externalId="020720241311" sku="020720241311" name="Товар с себестоимостью" price="200">
 <stocks>
 <stock externalWarehouseId="020720241312" quantity="20"/>
 </stocks>
