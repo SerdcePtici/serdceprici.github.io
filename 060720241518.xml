@@ -1,0 +1,12 @@
+<items date="2024-06-17T01:01:01">
+<item externalProductId="060720241518" externalId="060720241518" sku="060720241518" name="Умный принтер" price="1000">
+<stocks>
+<stock externalWarehouseId="officeteh" quantity="3000"/>
+</stocks>
+</item>
+<item externalProductId="060720241519" externalId="060720241519" sku="060720241519" name="Робот-помощник по дому" price="100000">
+<stocks>
+<stock externalWarehouseId="hometeh" quantity="300"/>
+</stocks>
+</item>
+</items>
