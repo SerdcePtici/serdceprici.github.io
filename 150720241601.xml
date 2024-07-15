@@ -1,7 +1,7 @@
 <items date="2024-05-30T01:01:01">
-<item externalProductId="150720241601" externalId="150720241601" sku="150720241601" name="Супер умный выключатель" price="5000">
+<item externalProductId="150720241601" externalId="150720241601" sku="150720241601" name="Супер-пупер умный выключатель" price="10">
 <stocks>
-<stock externalWarehouseId="hometeh" quantity="666"/>
+<stock externalWarehouseId="hometeh" quantity="1"/>
 </stocks>
 </item>
 </items>
