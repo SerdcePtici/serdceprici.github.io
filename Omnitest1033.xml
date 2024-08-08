@@ -9,4 +9,9 @@
 <stock externalWarehouseId="sklad2test1033" quantity="450"/>
 </stocks>
 </item>
+<item externalProductId="08082024152310333" externalId="08082024152310333" name="Товар 3 Тест-1033" price="5000">
+<stocks>
+<stock externalWarehouseId="sklad2test1033" quantity="500"/>
+</stocks>
+</item>
 </items>
