@@ -1,0 +1,7 @@
+<items date="2024-08-15T14:37:01">
+<item externalId="Product01bug622" name="Номенклатура для бага 622" price="100">
+<stocks>
+<stock externalWarehouseId="postsklad-bug-622" quantity="500"/>
+</stocks>
+</item>
+</items>
