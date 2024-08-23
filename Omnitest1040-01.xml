@@ -1,5 +1,5 @@
 <items date="2024-08-23T10:40:00">
-<item externalProductId="Product01test1040" externalId="Product01test1040" name="Номенклатура 1 Тест-1040" price="1000">
+<item externalProductId="Product01test1040" externalId="Product01test1040" name="Номенклатура с привязкой Тест-1040" price="1000">
 <stocks>
 <stock externalWarehouseId="postsklad-1-1040" quantity="100"/>
 </stocks>
